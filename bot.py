@@ -1,4 +1,3 @@
-from email.contentmanager import raw_data_manager
 import os, sys, json, time
 
 messageData = []
