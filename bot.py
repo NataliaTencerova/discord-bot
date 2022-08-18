@@ -1,4 +1,4 @@
-import os, sys, json, time
+import os, json, time
 
 startTime = time.time()
 
